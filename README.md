@@ -1,5 +1,5 @@
-### Hi there 👋
-### Test
+### Howdy! I'm Dominick and this is my GitHub 👋
+### ⚡ I'm a senior at Texas A&M, from Fort Worth, TX!
 <!--
 **Domerooni/Domerooni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
